@@ -1,4 +1,7 @@
-***Intro***
+*Intro*
 
+** Name: Raphael Mui
 
-- [ ]  Favorite color : Black
+** Location : Hong Kong
+
+[ ]  Favorite color : Black
